@@ -24,6 +24,7 @@
 .dirstamp
 .done
 .libs
+.vs
 /bin/
 /obj/
 Build
