@@ -84,6 +84,8 @@ src/libsodium/include/sodium/version.h
 stamp-*
 test-driver
 test/default/*.asm.js
+test/default/*.exe
+test/default/*.obj
 test/default/*.res
 test/default/*.trs
 test/default/aead_aegis128l
